@@ -22,6 +22,46 @@ Trippy는 복잡한 여행 경비 관리 때문에 스트레스를 받는 여행
 ## 주요 기능
 <img width="1007" height="565" alt="image" src="https://github.com/user-attachments/assets/ab611962-5e65-4230-8a04-e4ab2bd04ea6" />
 
+<details>
+  <summary>💳 모임계좌</summary>
+
+  - 여행 중 발생하는 결제 내역을 하나의 전자 지갑에서 관리
+  - 카드 / 계좌 / 현금 지출 통합 관리
+  - 해외 결제 내역 자동 환율 적용
+</details>
+
+<details>
+  <summary>💳 여행로그</summary>
+
+  - 여행 중 발생하는 결제 내역을 하나의 전자 지갑에서 관리
+  - 카드 / 계좌 / 현금 지출 통합 관리
+  - 해외 결제 내역 자동 환율 적용
+</details>
+
+<details>
+  <summary>💳 환율/환전</summary>
+
+  - 여행 중 발생하는 결제 내역을 하나의 전자 지갑에서 관리
+  - 카드 / 계좌 / 현금 지출 통합 관리
+  - 해외 결제 내역 자동 환율 적용
+</details>
+
+<details>
+  <summary>💳 항공권/바우처</summary>
+
+  - 여행 중 발생하는 결제 내역을 하나의 전자 지갑에서 관리
+  - 카드 / 계좌 / 현금 지출 통합 관리
+  - 해외 결제 내역 자동 환율 적용
+</details>
+
+<details>
+  <summary>💳 신분증/여권</summary>
+
+  - 여행 중 발생하는 결제 내역을 하나의 전자 지갑에서 관리
+  - 카드 / 계좌 / 현금 지출 통합 관리
+  - 해외 결제 내역 자동 환율 적용
+</details>
+
 ## 팀원
 | 이름 | 담당기능 | 
 |-----|-----|
