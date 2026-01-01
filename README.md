@@ -22,44 +22,41 @@ Trippy는 복잡한 여행 경비 관리 때문에 스트레스를 받는 여행
 ## 주요 기능
 <img width="1007" height="565" alt="image" src="https://github.com/user-attachments/assets/ab611962-5e65-4230-8a04-e4ab2bd04ea6" />
 
+## 화면 요약
 <details>
   <summary>💳 모임계좌</summary>
-
-  - 여행 중 발생하는 결제 내역을 하나의 전자 지갑에서 관리
-  - 카드 / 계좌 / 현금 지출 통합 관리
-  - 해외 결제 내역 자동 환율 적용
+  <img width="6852" height="3820" alt="image" src="https://github.com/user-attachments/assets/a538226a-09ff-4243-918f-5e7c47c9587b" />
+  
 </details>
 
 <details>
   <summary>💳 여행로그</summary>
+  <img width="7380" height="4448" alt="image" src="https://github.com/user-attachments/assets/b8682102-82d7-47ef-8173-ed708b041399" />
 
-  - 여행 중 발생하는 결제 내역을 하나의 전자 지갑에서 관리
-  - 카드 / 계좌 / 현금 지출 통합 관리
-  - 해외 결제 내역 자동 환율 적용
 </details>
 
 <details>
   <summary>💳 환율/환전</summary>
+  <img width="3294" height="1788" alt="image" src="https://github.com/user-attachments/assets/b5449d63-70a8-4701-bb12-36f956dc3df3" />
 
-  - 여행 중 발생하는 결제 내역을 하나의 전자 지갑에서 관리
-  - 카드 / 계좌 / 현금 지출 통합 관리
-  - 해외 결제 내역 자동 환율 적용
+</details>
+
+<details>
+  <summary>💳 결제</summary>
+  <img width="6944" height="3756" alt="image" src="https://github.com/user-attachments/assets/8bb854ea-bffc-47ae-9990-98c6ed710c39" />
+
 </details>
 
 <details>
   <summary>💳 항공권/바우처</summary>
+  <img width="6900" height="3596" alt="image" src="https://github.com/user-attachments/assets/84544d60-4c4f-4e6a-8d9e-e79f456af8cf" />
 
-  - 여행 중 발생하는 결제 내역을 하나의 전자 지갑에서 관리
-  - 카드 / 계좌 / 현금 지출 통합 관리
-  - 해외 결제 내역 자동 환율 적용
 </details>
 
 <details>
   <summary>💳 신분증/여권</summary>
+  <img width="6732" height="3520" alt="image" src="https://github.com/user-attachments/assets/48c851d2-a1c6-40eb-b271-c48309168118" />
 
-  - 여행 중 발생하는 결제 내역을 하나의 전자 지갑에서 관리
-  - 카드 / 계좌 / 현금 지출 통합 관리
-  - 해외 결제 내역 자동 환율 적용
 </details>
 
 ## 팀원
